@@ -1,6 +1,12 @@
 # W Music
 
-**Your music. Offline. Free.**
+**"A local-first, offline music player for people who just want to listen without the noise."**
+
+    The "CD Wallet" era, but digital: You own the files. You organize them the way you want. You don't need a signal bar to prove you have the right to listen.
+
+    Phone in pocket, music on: Background playback + lockscreen controls mean you nailed the core physical interaction. Close the phone, hit play, go about your day—zero friction.
+
+    Privacy by default: No analytics, no login, no data harvesting. It's just a media player that respects the device it's running on.
 
 W Music is a free, open-source Flutter music player that plays audio files stored on your device — no subscriptions, no ads, no internet required.
 
